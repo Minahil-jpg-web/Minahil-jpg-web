@@ -41,7 +41,6 @@ I believe in:
 ---
 
 ### Crop Disease Detection System  
-🔗 https://github.com/MinahilAhsan/crop-disease-detection  
 
 - PF: Built data preprocessing logic and handled image features efficiently.  
 - DBS: Designed a database to store images and model results systematically.  
