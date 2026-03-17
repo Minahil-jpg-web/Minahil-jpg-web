@@ -1,7 +1,7 @@
 ## Hi there
 # Hi I'm Minahil Ahsan
 
-🎓 2nd Semester Computer Engineering Student | Future Software Engineer  
+2nd Semester Computer Engineering Student | Future Software Engineer  
 
 ---
 
