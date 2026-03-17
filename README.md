@@ -1,5 +1,5 @@
 ## Hi there
-# Hi I'm Minahil Ahsan
+#  I'm Minahil Ahsan
 
 2nd Semester Computer Engineering Student | Future Software Engineer  
 
@@ -40,13 +40,13 @@ I believe in:
 
 ---
 
-### Crop Disease Detection System  
+### Crop Disease Detection System  ( Next ML Project)
 
 - PF: Built data preprocessing logic and handled image features efficiently.  
 - DBS: Designed a database to store images and model results systematically.  
 - Life: Learned time management and planning for ML workflow projects.  
 
-**What I Learned:** Strengthened PF and DBS skills in a real-world ML application.  
+**What I will Learn:** Strengthened PF and DBS skills in a real-world ML application.  
 
 ---
 
@@ -59,10 +59,10 @@ I believe in:
 **What I Learned:** Improved SQL (DBS) and coding discipline (PF) while working collaboratively.  
 
 ---
-DLD
+**DLD**
 ### Logic Gate Simulator   
 
-- PF: Simulated Boolean logic gates and designed circuit logic programs.  
+- DLD: Simulated Boolean logic gates and designed circuit logic programs.  
 - Life: Strengthened debugging and problem-solving skills while testing different circuits.  
 
 **What I Learned:** Reinforced PF fundamentals by connecting programming with digital logic design.  
